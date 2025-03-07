@@ -1,6 +1,4 @@
-// Mason Bertsch
-// 5005411965
-// CS202
+// Mason Bertsc
 
 /* 
 	Program Description:
